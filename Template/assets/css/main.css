@@ -1,0 +1,431 @@
+.backimg{
+    z-index: -1;
+}
+
+.widthmax{
+    width: 100%;
+}
+
+.fixed{
+    position: fixed;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+body,.career,ul{
+    margin: 0;
+}
+
+.wrapper{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+nav{
+    background-color: #333333;
+    z-index: 2;
+}
+
+nav i{
+    border-left: 1px solid #939393;
+    padding:20px;
+    font-size: 20px;
+}
+
+nav a:hover>i{
+    background-color: #222222;
+    color: white;
+}
+
+nav div img{
+    height: 20px;
+    padding: 20px;
+}
+
+.career{
+    background-color: #222222;
+    padding:20px;
+
+}
+
+.fa-cloud-download-alt{
+    background-color: #61dd4b;
+}
+
+.backimg-2{
+    background-image: url("../../photos/hero_2.jpg");
+    background-size: cover;
+}
+
+.viewheight{
+    height: 100vh;
+}
+
+li>a{
+    text-decoration: none;
+    color: #939393;
+    padding: 20px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.margin-top{
+    margin-top:37px;
+}
+
+.white{
+    color: white;
+}
+
+.absolute{
+    position: absolute;
+}
+
+.relative{
+    position: relative;
+}
+
+.big{
+    font-size: 24px;
+    letter-spacing: 4px;
+}
+
+.back-blue{
+    background-color:#1644ba;
+}
+
+.button{
+    padding: 10px 15px;
+}
+
+.margin-top ul li>a:hover{
+    color: white;
+}
+
+.margin-top-60{
+    margin-top: 60px;
+}
+
+h1{
+    font-size: 3rem;
+    margin: 8px;
+}
+
+.header p{
+    margin: 8px;
+    font-size: 1rem;
+    color: #999fa1;
+}
+
+.header{
+    height: 40%;
+}
+
+.text-align-center{
+    text-align: center;
+}
+
+.form input,select,button{
+    padding: 15.5px 10px;
+    font-size: 16px;
+}
+
+.input-text{
+    width: 231px;
+}
+
+select,button{
+width: 255px;
+}
+
+.form>div{
+    width: 275px;
+    margin-right: 10px;
+}
+
+option{
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+.margin-top-48{
+    margin-top: 48px;
+}
+
+.border-blue{
+    border: 1px solid #1644ba;
+    background-color: #1644ba;
+}
+
+.height-900px{
+    height: 969px;
+}
+
+.transparent{
+    background-color: rgba(22, 68, 186, 0.9);
+    height: 400px;
+    z-index: 0;
+}
+
+h2+p{
+    margin-top: 8px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.stats div{
+    margin: 90px;
+}
+
+.stats div strong{
+    font-size: 51px;
+}
+
+.opacity-0_7{
+    color:rgba(255, 255, 255, 0.7);
+}
+
+.job-list{
+    margin-top: 460px;
+}
+
+main+section{
+    margin-top: 30px;
+}
+
+.job-list-header{
+    font-size: 32px;
+    padding-top: 60px;
+}
+
+.border-yellow{
+    border: 1px solid #fff568;
+    background-color: #fff568;
+}
+
+.border-green{
+    border: 1px solid #28a745;
+    background-color: #28a745;
+}
+
+.border-radius{
+    border-radius: 5px;
+}
+
+.black{
+    color: black;
+}
+
+.text-decoration-none{
+    text-decoration: none;
+}
+
+.text-decoration-none:hover{
+    text-decoration: underline;
+    color: #4b587f;
+}
+
+.width-70{
+    width: 70px;
+}
+
+.font-size-12{
+    font-size: 12px;
+}
+
+.light{
+    font-weight: 100;
+}
+
+.width-117{
+    width: 117px;
+}
+
+.width-117 p{
+    margin-top: 0;
+}
+
+.bottom-border{
+    border-bottom: 1px solid lightgray;
+    padding: 30px 0 20px;
+}
+
+.circle{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+
+}
+
+.text-decoration-none-2{
+    text-decoration: none;
+}
+
+.hover-blue:hover{
+    background-color: #1644ba;
+    border-color: #1644ba;
+}
+
+.hover-blue:hover a{
+    color: white;
+}
+
+.border{
+    border: 1px solid lightgray;
+}
+
+.padding{
+    padding:3px 10px;
+}
+
+.pages{
+    margin: 48px auto 120px 15px;
+}
+
+.blue{
+    color: #1644ba;
+}
+
+.pages div{
+    margin-right:10px; 
+}
+
+
+.border-bottom{
+    
+    border-bottom: 1px solid lightgray;
+}
+
+.grey{
+    color: #939393
+}
+
+.font-size-32{
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+
+.width-200 img{
+    width: 200px;
+    height: 100px;
+}
+
+.width-150 img{
+    width: 150px;
+    height: 49px;
+}
+
+.width-120 img{
+    width: 120px;
+    height: 49px;
+}
+
+.width-100 img{
+    width: 100px;
+    height: 100px;
+}
+
+.candidate{
+    width: 40%; 
+    margin-left:340px;
+}
+
+.candidate p{
+    line-height: 32px;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.circle-100 img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.margin-top-170{
+    margin-top: 170px;
+    height: 430px;
+}
+
+.circle-8{
+    width: 8px;
+    height: 8px;
+    border-radius: 4px;
+}
+
+.border-grey{
+    background-color: #939393;
+    border:1px solid #939393;
+}
+
+.buttons div{
+    margin: 10px;
+}
+
+.back-white{
+    background-color: white;
+}
+
+.padding-top-48{
+    padding-top: 48px;
+}
+
+.padding-top-170{
+    padding-top: 170px;
+}
+
+.height-176{
+    height: 176px;
+}
+
+.height-max{
+    height: 100%;
+}
+
+.yellow-button{
+    background-color: #fff568;
+    font-size: 20px;
+    border-color: #fff568;
+    padding: 10px 16px;
+}
+
+footer{
+    background-color: #242424;
+    height: 550px;
+}
+
+ul,ul>li>a{
+    padding-left: 0;
+}
+
+ul>li>a{
+    line-height: 35px;
+}
+
+.padding-top-90{
+    padding-top: 90px;
+}
+
+.circle-40{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.margin-4{
+    margin-right: 4px;
+}
+
+.circle-40:hover a{
+    color: #1644ba;
+}
+
+.circle-40:hover{
+    background-color: white;
+}
